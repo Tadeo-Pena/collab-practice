@@ -1,0 +1,18 @@
+nav {
+    text-align: center;
+    background-color: blue;
+}
+
+.col1{
+    text-align: center;
+    background-color: red;
+}
+
+.col2 {
+    text-align: center;
+    background-color: bisque;
+}
+
+footer {
+    background-color: pink;
+}
