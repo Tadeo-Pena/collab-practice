@@ -1,18 +1,18 @@
 nav {
-    text-align: center;
-    background-color: blue;
+    background: red;
+    height: 80px;
 }
-
-.col1{
-    text-align: center;
-    background-color: red;
+.col1 {
+    background-color: lightblue;
+    height: 300px;
 }
 
 .col2 {
-    text-align: center;
-    background-color: bisque;
+    background: lawngreen;
+    height: 300px;
 }
 
 footer {
-    background-color: pink;
+ background: orange;
+ height: 100px;
 }
