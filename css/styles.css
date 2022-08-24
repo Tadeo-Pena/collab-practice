@@ -2,6 +2,21 @@ nav {
     background: red;
     height: 80px;
 }
+
+
+.col1{
+    background-color: yellow;
+}
+
+.col2 {
+    background-color: bisque;
+}
+
+footer {
+    background-color: pink;
+}
+
+=======
 .col1 {
     background-color: lightblue;
     height: 300px;
@@ -16,3 +31,4 @@ footer {
  background: orange;
  height: 100px;
 }
+
