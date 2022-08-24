@@ -4,15 +4,14 @@ nav {
 }
 
 .col1{
-    text-align: center;
-    background-color: red;
+    background-color: yellow;
 }
 
 .col2 {
-    text-align: center;
     background-color: bisque;
 }
 
 footer {
     background-color: pink;
 }
+
