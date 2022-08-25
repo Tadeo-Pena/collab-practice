@@ -1,7 +1,8 @@
 nav {
-    text-align: center;
-    background-color: blue;
+    background: red;
+    height: 80px;
 }
+
 
 .col1{
     background-color: yellow;
@@ -13,4 +14,4 @@ nav {
 
 footer {
     background-color: pink;
-}
+
